@@ -1,0 +1,4 @@
+Classification probelm of Adults income based on the adult charechterisitcs.
+We are trying to predict wheather an adult will have an income of over $50K or not based on it's lifestyle and background.
+
+I achieved an accuracy of 87% through my models which is attached as a python notebook.
